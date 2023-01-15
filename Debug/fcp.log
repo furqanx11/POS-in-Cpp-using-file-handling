@@ -1,0 +1,3 @@
+﻿  fcp.cpp
+C:\Users\dell\Downloads\New folder\fcp\fcp\fcp.cpp(427,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  fcp.vcxproj -> C:\Users\dell\Downloads\New folder\fcp\Debug\fcp.exe
